@@ -1,0 +1,9 @@
+//Double equals == is used to compare the value of two operands:
+
+"2" == 2; // true
+ 2  == 2; // true
+
+//Triple equals === is used to compare the value AND type of two operands:
+
+"2" === 2; // false
+ 2  === 2; // true
